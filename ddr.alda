@@ -1,4 +1,7 @@
-(tempo! 120)
+(tempo! 180)
 
-flute: o4
-  a a g f b b a g > c < a f > c c4 d8 < b2
+flute: o5
+  a a g f b b a g >c <a f >c c4. d8 < b2
+
+oboe: o5
+  f f g f d d f g f f f f f4. f8 d2
