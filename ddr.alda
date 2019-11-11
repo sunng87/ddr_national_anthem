@@ -1,0 +1,4 @@
+(tempo! 120)
+
+flute: o4
+  a a g f b b a g > c < a f > c c4 d8 < b2
