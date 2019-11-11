@@ -1,7 +1,8 @@
-(tempo! 180)
+(tempo! 120)
 
 flute: o5
-  a a g f b b a g >c <a f >c c4. d8 < b2
-
+  a a g f b b a g >c <a f >c c4. d8 <b2
 oboe: o5
   f f g f d d f g f f f f f4. f8 d2
+clarinet: o5
+  b b a g >c c <a b >d <b f >d d4. e8 c2
