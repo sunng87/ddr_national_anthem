@@ -6,3 +6,7 @@ oboe: o5
   f f g f d d f g f f f f f4. f8 d2
 clarinet: o5
   b b a g >c c <a b >d <b f >d d4. e8 c2
+# clarinet: o5
+#   g/d d d d/>b g/e g/e g/e e/c g/d g/d a g/d g4./d4. g8/e8 e2
+bassoon: o2
+  d d~d d e e~e e f f~f f g g~g g
